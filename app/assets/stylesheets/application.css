@@ -11,3 +11,7 @@
  *= require_self
  *= require_tree .
  */
+
+ body{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+ }
