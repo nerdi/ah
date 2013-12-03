@@ -170,7 +170,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capybara (= 2.1.0)
+  capybara
   coffee-rails (= 4.0.1)
   guard-rspec
   jbuilder (= 1.0.2)
