@@ -9,6 +9,7 @@ group :development, :test do
   gem 'capybara'
   gem 'guard-rspec'
   gem 'rb-fsevent', '~> 0.9'
+  gem 'better_errors', "~> 1.0.1"
 end
 
 group :test do
